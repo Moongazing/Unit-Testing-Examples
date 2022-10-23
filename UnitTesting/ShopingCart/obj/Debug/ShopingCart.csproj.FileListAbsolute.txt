@@ -1,0 +1,8 @@
+C:\Users\Yön\Desktop\Unit Testing\UnitTesting\ShopingCart\bin\Debug\ShopingCart.exe.config
+C:\Users\Yön\Desktop\Unit Testing\UnitTesting\ShopingCart\bin\Debug\ShopingCart.exe
+C:\Users\Yön\Desktop\Unit Testing\UnitTesting\ShopingCart\bin\Debug\ShopingCart.pdb
+C:\Users\Yön\Desktop\Unit Testing\UnitTesting\ShopingCart\obj\Debug\ShopingCart.csproj.AssemblyReference.cache
+C:\Users\Yön\Desktop\Unit Testing\UnitTesting\ShopingCart\obj\Debug\ShopingCart.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yön\Desktop\Unit Testing\UnitTesting\ShopingCart\obj\Debug\ShopingCart.csproj.CoreCompileInputs.cache
+C:\Users\Yön\Desktop\Unit Testing\UnitTesting\ShopingCart\obj\Debug\ShopingCart.exe
+C:\Users\Yön\Desktop\Unit Testing\UnitTesting\ShopingCart\obj\Debug\ShopingCart.pdb

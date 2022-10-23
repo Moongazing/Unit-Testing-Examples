@@ -1,0 +1,8 @@
+C:\Users\Yön\Desktop\Unit Testing\UnitTesting\Helpers\bin\Debug\Helpers.exe.config
+C:\Users\Yön\Desktop\Unit Testing\UnitTesting\Helpers\bin\Debug\Helpers.exe
+C:\Users\Yön\Desktop\Unit Testing\UnitTesting\Helpers\bin\Debug\Helpers.pdb
+C:\Users\Yön\Desktop\Unit Testing\UnitTesting\Helpers\obj\Debug\Helpers.csproj.AssemblyReference.cache
+C:\Users\Yön\Desktop\Unit Testing\UnitTesting\Helpers\obj\Debug\Helpers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yön\Desktop\Unit Testing\UnitTesting\Helpers\obj\Debug\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Yön\Desktop\Unit Testing\UnitTesting\Helpers\obj\Debug\Helpers.exe
+C:\Users\Yön\Desktop\Unit Testing\UnitTesting\Helpers\obj\Debug\Helpers.pdb
